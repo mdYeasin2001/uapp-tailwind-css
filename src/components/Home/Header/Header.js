@@ -14,7 +14,7 @@ const Header = () => {
                         <button className="uapp-btn-primary px-8 py-2 ml-2 rounded-3xl font-medium tracking-wide">CONTACT US</button>
                     </div>
                     <div className="flex-1 self-center lg:ml-20">
-                        <img style={{ maxHeight: '590px' }} src={phone} alt="app" />
+                        <img className="mt-6 lg:mt-0" style={{ maxHeight: '590px' }} src={phone} alt="app" />
                     </div>
                 </div>
             </div>

@@ -10,3 +10,12 @@
     background: linear-gradient(to right, #4776FB, #BB1CDC);
     color: white;
 }
+.uapp-btn-secondary{
+    background: linear-gradient(to right, #4776FB, #BB1CDC);
+    color: white;
+    transition: all 1s;
+}
+.uapp-btn-secondary:hover{
+    background: white;
+    color: #BB1CDC;
+}
